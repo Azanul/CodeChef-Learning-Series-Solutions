@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=CodeChef%20LRNDSA%20Solutions&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=footer&text=CodeChef%20LRNDSA%20Solutions&fontSize=70&fontAlignY=70)
 <p align="center">
 <img src="https://img.shields.io/badge/language-Go-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-Scala-red?style=for-the-badge">
