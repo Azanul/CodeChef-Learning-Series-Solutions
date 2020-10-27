@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/language-Go-blue?style=for-the-badge">
  </p>
 <p align="center">
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 ## Introduction
 
