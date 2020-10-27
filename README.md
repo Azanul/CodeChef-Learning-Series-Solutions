@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=footer&text=CodeChef%20LRNDSA%20Solutions&fontSize=70&fontAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=footer&text=CodeChef%20LRNDSA%20Solutions&fontSize=60&fontAlignY=100)
 <p align="center">
-<img src="https://img.shields.io/badge/language-Go-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/language-Scala-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-Dart-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/language-Scala-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/language-Go-blue?style=for-the-badge">
  </p>
 <p align="center">
   
@@ -17,8 +17,8 @@ This Repo aims to have the solutions to all the problems on that series using so
 
 ## Languages
   - <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> Dart
-  - <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> Go
   - <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> Scala
+  - <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> Go
   
 ## Contributing
 
