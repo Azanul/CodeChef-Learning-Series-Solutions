@@ -10,7 +10,7 @@ func main(){
 	eleven := x%11==0
 
 	if five && eleven{
-		fmt.Println("TWO")
+		fmt.Println("BOTH")
 	} else if five || eleven{
 		fmt.Println("ONE")
 	} else {
