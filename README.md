@@ -8,6 +8,8 @@
 
 CodeChef is a community where programmers practice their DSA Skills. It has very intuitive [DSA learning series](https://www.codechef.com/LEARNDSA).
 This Repo aims to have the solutions to all the problems on that series using some not so comonly used programming languages and serve as a reference to everyone trying to learn DSA using these languages.
+ 
+ [DSA Learning series](https://www.codechef.com/LEARNDSA/?itm_medium=navmenu&itm_campaign=learndsa)
 
 :star2: Star it 
 :fork_and_knife:Fork it
